@@ -1,3 +1,7 @@
+title: Machine Learning for Business
+description: MISY467 Spring 2020
+theme: jekyll-theme-cayman
+
 An h1 header
 ============
 
